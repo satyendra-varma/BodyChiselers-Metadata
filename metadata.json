@@ -1,8 +1,8 @@
 {
   "name": "Body Chiselers",
   "symbol": "BC",
-  "uri": "https://github.com/satyendra-varma/BodyChiselers-Metadata/metadata.json",
-  "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/solana-gold-image.png",
+  "uri": "https://github.com/satyendra-varma/BodyChiselers-Metadata/edit/main/metadata.json",
+  "image": "https://github.com/satyendra-varma/BodyChiselers-Metadata/tree/main/BodyChiselers.png",
   "properties": {
     "files": [
       {
