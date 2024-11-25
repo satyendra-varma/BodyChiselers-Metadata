@@ -1,0 +1,17 @@
+{
+  "name": "Body Chiselers",
+  "symbol": "BC",
+  "uri": "https://github.com/satyendra-varma/BodyChiselers-Metadata/metadata.json",
+  "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/solana-gold-image.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/solana-gold-image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+  },
+  "description": "Body Chiselers token is a limited edition token offering exclusive benefits and rewards to holders.",
+  "external_url": "https://www.bodychiselers.com",
+}
